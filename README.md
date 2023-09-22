@@ -1,2 +1,2 @@
 # resume
-a repo to store files from resume
+A resume for GitHub repos and README.md files
